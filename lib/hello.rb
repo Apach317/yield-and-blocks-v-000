@@ -4,5 +4,6 @@ def hello_t(name)
       puts "Hi, #{name}"
     end
   end
+end
 
 # call your method here!
